@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\bin\Debug\net7.0\CircleHesaplama.deps.json
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\bin\Debug\net7.0\CircleHesaplama.dll
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\bin\Debug\net7.0\CircleHesaplama.pdb
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.dll
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\refint\CircleHesaplama.dll
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\CircleHesaplama.pdb
+C:\Users\Lenovo\Desktop\SimpleCircleApp\CircleHesaplama\obj\Debug\net7.0\ref\CircleHesaplama.dll
